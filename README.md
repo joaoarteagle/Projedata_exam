@@ -1,4 +1,3 @@
-##BACK-END:
 
 # Full Stack Application
 
